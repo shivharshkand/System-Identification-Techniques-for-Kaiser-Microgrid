@@ -51,5 +51,5 @@ Running `final_project_code.m` will:
 ## Author
 
 **Shivharsh Kand**  
-Graduate Student — Controls & Mechatronics 
+Graduate Student — Controls & Mechatronics
 Mechanical & Aerospace Engineering
