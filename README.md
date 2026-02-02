@@ -67,5 +67,6 @@ The emphasis is on **model credibility, validation, and engineering decision-mak
 
 ---
 
-## Repository Structure
+📄 **Full Technical Report:**  
+[MAE 283A System Identification Report](report/MAE283A_Final_Project.pdf)
 
